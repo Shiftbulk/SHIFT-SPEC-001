@@ -19,6 +19,8 @@ Installation tolerancing of conveyor idlers is critical for the correct support 
 > Idler support structure mounting holes to have  ± 5.0 mm tolerance longitudinally and ± 2.0 mm tolerance in the lateral direction ( Plan view )
 
 
+![Figure 2](/stringers.PNG)
+
 
 
 
