@@ -15,11 +15,11 @@ Installation tolerancing of conveyor idlers is critical for the correct support 
 ###Idler Supporting Support
 
 ![Figure 1](/idler%20mating%20holes.PNG)
-
 > Idler support structure mounting holes to have  ± 5.0 mm tolerance longitudinally and ± 2.0 mm tolerance in the lateral direction ( Plan view )
 
 
 ![Figure 2](/Stringer.PNG)
+> The installed idler stringers shall be limited to lateral centreline dimensional tolerancing of ± 3.0 mm on a 3m length , this should be limited to 25.0 mm over the length of that stringer.
 
 
 
