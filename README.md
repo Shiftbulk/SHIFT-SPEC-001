@@ -24,6 +24,8 @@ Installation tolerancing of conveyor idlers is critical for the correct support 
 ![Figure 3](/VERTICAL%20ALIGNMENT.PNG)
 > Vertical misalignment of stringers should be limited to 3mm over the length of the stringer
 
+![Figure 4](/vertical%20front%20view.PNG)
+> Looking at the Idler in front view, installation tolerances for the vertical misalignment should be limited to the width of the stringers / 600 for suspended idlers and width / 300 for fixed form.
 
 
 
