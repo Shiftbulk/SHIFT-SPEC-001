@@ -12,6 +12,14 @@ This normative specification details the tolerancing requirements for undergroun
 
 Installation tolerancing of conveyor idlers is critical for the correct support of the run-off length conveyor. This belt support allows for the optimization of conveyor idler life and reduction of tracking and training challenges of belting on site.
 
+## Idler Supporting Layout
+
+Conveyor systems have limitations on the vertical and convex curves which are created by the tension profiles of the belt during starting, stopping and general operation. These limits can cause the conveyor belt to lift off of idlers and reduce operational life of idlers. These considerations should be made by an experienced conveyor designer, and detailed conveyor profiles should be developed to define the profile to be followed by the installation team installing run of conveyor idlers.
+
+It is recommended that all permanent underground conveyor installations have general arrangements detailing the elevation and chainage of every idler stringer over the drive, transfer and tail areas of the conveyor. This should include standardized details to any areas where the idlers change from room to floor or vice versa.
+
+Along run of conveyor structure at floor level, the stringer levels should not exceed 3° or ± 55: 1000.
+
 ###Idler Supporting Support
 
 ![Figure 1](/idler%20mating%20holes.PNG)
