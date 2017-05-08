@@ -21,6 +21,11 @@ Installation tolerancing of conveyor idlers is critical for the correct support 
 ![Figure 2](/Stringer.PNG)
 > The installed idler stringers shall be limited to lateral centreline dimensional tolerancing of ± 3.0 mm on a 3m length , this should be limited to 25.0 mm over the length of that stringer.
 
+![Figure 3](/VERTICAL%20ALIGNMENT.PNG)
+> Vertical misalignment of stringers should be limited to 3mm over the length of the stringer
+
+
+
 
 
 
