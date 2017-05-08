@@ -11,7 +11,7 @@ This normative specification details the tolerancing requirements for undergroun
 ##Introduction
 
 Installation tolerancing of conveyor idlers is critical for the correct support of the run-off length conveyor. This belt support allows for the optimization of conveyor idler life and reduction of tracking and training challenges of belting on site.
-![Figure 1]({{site.baseurl}}//idler%20mating%20holes.PNG)
+![Figure 1](/idler%20mating%20holes.PNG)
 ###Idler Supporting Support
 
 
